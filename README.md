@@ -1,4 +1,6 @@
-# PHPBase
+# PHP的一些基本知识介绍
+
+编译工具：Sublime Text3和Xampp的集成环境
 
 
 # PHP变量知识
